@@ -11,7 +11,23 @@ How it is currently envisioned to be deployed? >> Kube files
 https://github.com/PingPong3107/QoS-Analysis-of-OTA-Update-Approaches
 
 ## Hardware
-Introduce 5g clients, what clients do you provide? 
+TODO: Introduce 5g clients, what clients do you provide? 
+
+### Laptops as 5G Clients
+* 5G driver only for Windows 11 and Ubuntu
+* We provide x (at least one) laptops (with drivers pre-installed?)
+* We provide (up to) three 5G TCUs
+* TCUs are connected via USB to the laptops
+* SIM cards
+* Participants may use their own devices (laptops with 5G TCU or 5G-capable smartphones) to increase the number of clients but need to install the drivers
+
+### Laptop as Server
+* Windows 11 (?) operating system
+* connected via fourth 5G TCU
+* serves as edge in advanced use case
+
+### Edge Core?
+Clarify access with Nokia regarding measurements
 
 
 # New Features
