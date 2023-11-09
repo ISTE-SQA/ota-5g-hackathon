@@ -2,7 +2,8 @@
 
 # Overview
 
-TODO: Provide text
+The OTA 5G Hackathon Challenge aims at realizing a more realistic scenario for Over the Air Software Updates for cars. In this repo, we collect all the neccessary inputs that are required to complete the challenge. 
+
 
 ## OTA Prototype 
 
