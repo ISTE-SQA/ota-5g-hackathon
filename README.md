@@ -73,9 +73,7 @@ We provide the following hardware.
 * Laptop with Windows 11
 * Connected via fourth 5G TCU
 * Serves as edge in advanced use case
-
-
-* **[action item]** Clarify how 5G edge server can connect to public cloud.
+* **[action item]** Clarify how 5G edge server can connect to public cloud
 
 
 ### 5G Edge Core
@@ -90,11 +88,9 @@ We provide the following hardware.
 
 ## Contact
 
-- Miles Stötzner
-- https://miles.stoetzner.de
-- miles.stoetzner@iste.uni-stuttgart.de
-
-
-- Matthias Weiß
-- https://www.ias.uni-stuttgart.de/institut/team/Weiss-00019/
-- matthias.weiss@ias.uni-stuttgart.de
+* Miles Stötzner
+  * https://miles.stoetzner.de
+  * miles.stoetzner@iste.uni-stuttgart.de
+* Matthias Weiß
+  * https://www.ias.uni-stuttgart.de/institut/team/Weiss-00019/
+  * matthias.weiss@ias.uni-stuttgart.de
