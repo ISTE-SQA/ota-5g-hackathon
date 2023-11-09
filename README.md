@@ -7,15 +7,16 @@ In this repository, we collect all the necessary assets that are required to com
 ## OTA Prototype 
 
 <figure>
+<p align="center">
   <img
   src="assets/architecture.png"
   alt="The beautiful MDN logo."
   width="550px"
-  align="center"
->
+  align="center">
+</p>
   <figcaption>Figure 1: Architecture of the Prototype (source: Ingo Schwendinger)</figcaption>
 </figure>
-
+<br>
 
 The OTA Prototype is a collection of software components developed as part of a bachelor's thesis to assess the impact on Quality of Service (QoS) for various Over-The-Air (OTA) update strategies.
 The prototype encompasses two different implemented versions: one without messaging (ota-tester-polling-intervals), and one with messaging (ota-tester-with-broker).
