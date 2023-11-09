@@ -11,8 +11,7 @@ In this repository, we collect all the necessary assets that are required to com
   <img
   src="assets/architecture.png"
   alt="The beautiful MDN logo."
-  width="550px"
-  align="center">
+  width="550px">
 </p>
   <figcaption>Figure 1: Architecture of the Prototype (source: Ingo Schwendinger)</figcaption>
 </figure>
