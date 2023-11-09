@@ -5,10 +5,12 @@
 TODO: Provide text
 
 ## OTA Prototype 
-Answer questions like: 
-What are the main components in the prototype? 
-How it is currently envisioned to be deployed? >> Kube files  
-https://github.com/PingPong3107/QoS-Analysis-of-OTA-Update-Approaches
+
+The OTA Prototype is a collection of software components developed as part of a bachelor's thesis to assess the impact on Quality of Service (QoS) for various Over-The-Air (OTA) update strategies. The prototype encompasses two different implemented versions: one without messaging (ota-tester-polling-intervals), and, one with messaging (ota-tester-with-broker). Additionally, it includes a load-generating component equipped with programmed simulation scenarios for updating car fleets of varying sizes.
+
+For more detailed information about each component and the bachelor thesis, please visit https://github.com/PingPong3107/QoS-Analysis-of-OTA-Update-Approaches.
+
+The services are implemented as Spring Boot Java Applications, while the load generator, which simulates the clients, utilizes Gatling and Scala.
 
 ## Hardware
 
