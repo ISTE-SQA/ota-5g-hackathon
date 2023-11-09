@@ -25,14 +25,15 @@ For more detailed information about each component and the bachelor thesis, plea
 ## Challenge
 
 In this challenge, we first deploy the already existing OTA prototype in a distributed manner across the 5G network of the Arena2036 and conduct 5G measurements. 
-In the more advanced scenario, we introduce an edge cache and distribute the OTA prototype also across the cloud, while conducting new 5g measurements.
+In the more advanced scenario, we introduce an edge cache and distribute the OTA prototype also across the cloud, while conducting new 5G measurements.
+If interested, also deployment automation scripts can be provided.
 
 ### Default Scenario
 
-* Distributed local deployment for the 5g clients
-* Deploy the server locally in one of the machines in the arena that is also connected to the 5g network. 
-* Create a protocol/or deployment diagram once the number of clients and the connection has been tested.
-* Conducting 5g measurements
+* Distributed deployment of the prototype inside the Arena2036 5G network
+* Deploy the server locally in one of the machines in the Arena2036 that is also connected to the 5G network. 
+* Document the architecture as deployment diagram once the number of clients and the connection has been tested.
+* Conducting 5G measurements
   * latency
   * throughput 
   * upload/download rate
@@ -41,11 +42,13 @@ In the more advanced scenario, we introduce an edge cache and distribute the OTA
 
 ### Advanced Scenario
 
-* Introduce an Edge cache
-* Move current 5G Edge server to the cloud
+* Introduce an edge cache between 5G clients and 5G edge server
+* Move current 5G edge server to the cloud
 
-* Firewall? 
-* CS cluster connected to arena, OR server on the public cloud.
+
+### Automated Deployment Scenario
+
+* Provide deployment scripts for the automated deployment of the distributed setup, e.g., using Ansible or TOSCA
 
 
 ## Hardware
@@ -67,9 +70,14 @@ We provide the following hardware.
 * Connected via fourth 5G TCU
 * Serves as edge in advanced use case
 
+
+* **[action item]** Clarify how 5G edge server can connect to public cloud.
+
+
 ### 5G Edge Core
 
-* [action item] Clarify access with Nokia regarding measurements
+* **[action item]** Clarify access with Nokia regarding measurements
+
 
 ### Cloud Server
 
