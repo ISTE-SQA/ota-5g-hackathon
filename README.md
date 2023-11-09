@@ -14,16 +14,16 @@ https://github.com/PingPong3107/QoS-Analysis-of-OTA-Update-Approaches
 
 ### Laptops as 5G Clients
 * 5G driver (Windows recommended, https://www.tekmodul.de/download/quectel/drivers/Quectel_Windows_USB_Driver(Q)_NDIS_V2.7.6.zip)
-* We provide 4 laptops (with drivers pre-installed?)
-* We provide 4 5G TCUs
+* We provide 3 laptops (with drivers pre-installed?)
+* We provide 3 5G TCUs
 * TCUs are connected via USB to the laptops
 * SIM cards with static IPs for entering the Nokia 5G Network included
 * Participants may use their own devices (laptops with 5G TCU or 5G-capable smartphones) to increase the number of clients but need to install the drivers
 
 ### Laptop as Server
-* Windows 11 (?) operating system
-* connected via fourth 5G TCU
-* serves as edge in advanced use case
+* Windows 11 operating system
+* Connected via fourth 5G TCU
+* Serves as edge in advanced use case
 
 ### Edge Core?
 Clarify access with Nokia regarding measurements
